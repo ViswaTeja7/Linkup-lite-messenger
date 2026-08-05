@@ -1,0 +1,6 @@
+{
+  "name": "LinkUp Lite Messenger",
+  "description": "A full-stack, real-time messaging application featuring end-to-end encryption (Signal-inspired), group chats, media sharing, and presence tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
